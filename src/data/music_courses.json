@@ -1,0 +1,64 @@
+{
+    "courses":[
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of playing guitarwith our comprehensive beginner's course.",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "/course/guitar.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Piano Basics",
+            "slug": "piano-basics",
+            "description": "Start your journey in learning piano with our structured beginner's course.",
+            "price": 89.99,
+            "instructor": "Jane Smith",
+            "isFeatured": true,
+            "image": "/course/piano.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Music Theory Essentials",
+            "slug": "music-theory-essentials",
+            "description": "Understand the fundamentals of music theory and enhance your musical knowledge.",
+            "price": 79.99,
+            "instructor": "Emily Davis",
+            "isFeatured": true,
+            "image": "/course/music-theory.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Drum Techniques",
+            "slug": "drum-techniques",
+            "description": "Learn the basics of drumming and improve your rhythm with our beginner's course.",
+            "price": 69.99,
+            "instructor": "Michael Johnson",
+            "isFeatured": true,
+            "image": "/course/drums.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Violin for Beginners",
+            "slug": "violin-for-beginners",
+            "description": "Start playing the violin with our comprehensive course for beginners.",
+            "price": 99.99,
+            "instructor": "Laura Brown",
+            "isFeatured": true,
+            "image": "/course/violin.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Advanced Vocal Techniques",
+            "slug": "advanced-vocal-techniques",
+            "description": "Enhance your singing skills with advanced vocal techniques and exercises.",
+            "price": 109.99,
+            "instructor": "David Wilson",
+            "isFeatured": true,
+            "image": "/course/vocals.jpg"
+        }
+    ]
+}
